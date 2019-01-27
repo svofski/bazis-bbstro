@@ -2,7 +2,7 @@ BBSTRO for Vector-06C
 =====================
 ![bbstro screenshot](https://github.com/svofski/bazis-bbstro/raw/master/bazis-bbstro.jpg "tvnoise screenshot")
 
-It of course best viewed on a real machine with a CRT display.
+It is of course best viewed on a real machine with a CRT display.
 
 The source code is written in 8080 assembly and assembled using web-based [Pretty 8080 Assembler](https://svofski.github.io/pretty-8080-assembler/)
 
